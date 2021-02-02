@@ -1,0 +1,12 @@
+.header__title {
+  max-width: 565px;
+  font-family: "Poppins", "Arial", "Helvetica", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 1.1;
+  color:#34313D;
+  letter-spacing: -2px;
+  margin-top: 0;
+  margin-bottom: 5px;
+}

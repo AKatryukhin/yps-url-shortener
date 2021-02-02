@@ -1,0 +1,13 @@
+.header__getstarted {
+  width: 197px;
+  height: 56px;
+  background: #2BD0D0;
+  border-radius: 28px;
+  font-family: "Poppins", "Arial", "Helvetica", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #fff;
+  border: none;
+}
