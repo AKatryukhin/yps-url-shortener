@@ -1,0 +1,10 @@
+.header-nav__login {
+  text-decoration: none;
+  font-family: "Poppins", "Arial", "Helvetica", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #9E9AA8;
+  margin-right: 37px;
+}
