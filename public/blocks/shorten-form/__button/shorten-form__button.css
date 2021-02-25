@@ -1,0 +1,15 @@
+.shorten-form__button {
+  width: 188px;
+  height: 64px;
+  background: #2BD0D0;
+  border-radius: 10px;
+  font-family: "Poppins", "Arial", "Helvetica", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #fff;
+  border: none;
+  padding: 18px 40px;
+}
+

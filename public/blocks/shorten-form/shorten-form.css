@@ -1,4 +1,6 @@
 .shorten-form {
-  width: 100%;
   padding: 52px 64px;
+  background-color: rgba(75, 63, 107, 1);
+  border-radius: 10px;
+  transform: translate(0, 84px);
   }
