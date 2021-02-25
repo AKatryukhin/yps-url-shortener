@@ -15,3 +15,7 @@
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__getstarted/header__getstarted.css);
+@import url(../blocks/shorten-form/shorten-form.css);
+@import url(../blocks/shorten-form/__field/shorten-form__field.css);
+@import url(../blocks/shorten-form/__input/shorten-form__input.css);
+@import url(../blocks/shorten-form/__button/shorten-form__button.css);
