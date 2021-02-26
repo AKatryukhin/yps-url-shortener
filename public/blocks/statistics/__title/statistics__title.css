@@ -1,0 +1,11 @@
+.statistics__title {
+  max-width: 540px;
+  font-family: "Poppins", "Arial", "Helvetica", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.2;
+  color:#34313D;
+  letter-spacing: -1px;
+  margin: 204px auto 18px;
+}
