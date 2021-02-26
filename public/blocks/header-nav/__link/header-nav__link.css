@@ -7,3 +7,10 @@
   line-height: 1.5;
   color: #9E9AA8;
 }
+
+.header-nav__link::after {
+  content: "";
+  margin-right: 32px;
+}
+
+

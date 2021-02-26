@@ -1,5 +1,4 @@
 .header-nav__links {
-  width: 265px;
   margin: 0;
   padding: 0;
   list-style: none;
@@ -8,3 +7,5 @@
   justify-content: space-between;
   align-items: center;
 }
+
+
