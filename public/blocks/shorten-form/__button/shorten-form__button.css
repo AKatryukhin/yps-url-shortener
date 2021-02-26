@@ -10,6 +10,8 @@
   line-height: 1.5;
   color: #fff;
   border: none;
-  padding: 18px 40px;
+  padding: 0;
+  box-sizing: border-box;
 }
+
 

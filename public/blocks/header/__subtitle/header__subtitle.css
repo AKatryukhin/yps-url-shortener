@@ -10,3 +10,14 @@
   margin-top: 0;
   margin-bottom: 38px;
 }
+
+.header__subtitle::after {
+  content: "";
+  width: 733px;
+  height: 482px;
+  position: absolute;
+  top: 166px;
+  left: 830px;
+  background-image: url(../../../images/illustration-working.svg);
+  background-position: inherit;
+}

@@ -1,5 +1,5 @@
 .shorten-form__input {
-  width: 769px;
+  width: calc(100% - 212px);
   padding: 14px 32px;
   font-family: "Poppins", "Arial", "Helvetica", sans-serif;
   font-style: normal;
@@ -8,6 +8,6 @@
   line-height: 1.6;
   color: rgba(52, 49, 61, .5);
   letter-spacing: 0.15px;
-  margin-right: 24px;
   border-radius: 10px;
+  box-sizing: border-box;
 }
