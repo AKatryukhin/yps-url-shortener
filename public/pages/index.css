@@ -17,3 +17,8 @@
 @import url(../blocks/shorten-form/__field/shorten-form__field.css);
 @import url(../blocks/shorten-form/__input/shorten-form__input.css);
 @import url(../blocks/shorten-form/__button/shorten-form__button.css);
+@import url(../blocks/statistics/statistics.css);
+@import url(../blocks/statistics/__cards-item/statistic__cards-item.css);
+@import url(../blocks/statistics/__cards/statistic__cards.css);
+@import url(../blocks/statistics/__subtitle/statistics__subtitle.css);
+@import url(../blocks/statistics/__title/statistics__title.css);
