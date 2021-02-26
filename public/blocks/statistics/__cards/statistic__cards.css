@@ -1,0 +1,10 @@
+.statistics__cards {
+list-style: none;
+padding: 0;
+margin: 0;
+display: grid;
+gap: 30px;
+grid-template-columns: repeat(3, 350px);
+grid-template-rows: 267px;
+position: relative;
+}

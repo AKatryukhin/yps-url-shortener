@@ -1,0 +1,25 @@
+.statistics__cards-title {
+  font-family: "Poppins", "Arial", "Helvetica", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 1.5;
+  color:#34313D;
+  margin: 0 0 12px;
+}
+
+.statistics__cards-title::before {
+  content: "";
+  width: 88px;
+  height: 88px;
+  border-radius: 50%;
+  background-color: #3A3054;
+  background-image: url(../../../images/icon-detailed-records.svg);
+  background-size: inherit;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: -44px;
+  left: 32px;
+}
+

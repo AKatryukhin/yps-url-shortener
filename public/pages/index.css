@@ -23,3 +23,6 @@
 @import url(../blocks/statistics/__cards/statistic__cards.css);
 @import url(../blocks/statistics/__subtitle/statistics__subtitle.css);
 @import url(../blocks/statistics/__title/statistics__title.css);
+@import url(../blocks/statistics/__cards-title/statistic__cards-title.css);
+@import url(../blocks/statistics/__cards-subtitle/statistics__cards-subtitle.css);
+@import url(../blocks/statistics/__cards-icon/statistics__cards-icon.css);
