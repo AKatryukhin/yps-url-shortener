@@ -1,0 +1,12 @@
+.boost__title {
+  font-family: "Poppins", "Arial", "Helvetica", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.2;
+  color:#fff;
+  text-align: center;
+  letter-spacing: -1px;
+  margin: 0 0 32px 0;
+  max-width: 540px;
+}

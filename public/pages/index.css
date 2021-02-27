@@ -25,3 +25,6 @@
 @import url(../blocks/cards/__item/cards__item.css);
 @import url(../blocks/cards/____title/cards__title.css);
 @import url(../blocks/cards/__subtitle/cards__subtitle.css);
+@import url(../blocks/boost/boost.css);
+@import url(../blocks/boost/__title/boost__title.css);
+@import url(../blocks/boost/__getstarted/boost__getstarted.css);
