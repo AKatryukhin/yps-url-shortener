@@ -1,12 +1,13 @@
-.statistics__cards-item {
+.cards__item {
   padding: 77px 32px 41px;
   position: relative;
+  background-color: #fff;
 }
 
-.statistics__cards-item:last-child .statistics__cards-title::before {
+.cards__item:last-child .cards__title::before {
   background-image: url(../../../images/icon-fully-customizable.svg);
 }
 
-.statistics__cards-item:first-child .statistics__cards-title::before {
+.cards__item:first-child .cards__title::before {
   background-image: url(../../../images/icon-brand-recognition.svg);
 }

@@ -1,4 +1,4 @@
-.statistics__cards-title {
+.cards__title {
   font-family: "Poppins", "Arial", "Helvetica", sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -8,7 +8,7 @@
   margin: 0 0 12px;
 }
 
-.statistics__cards-title::before {
+.cards__title::before {
   content: "";
   width: 88px;
   height: 88px;
