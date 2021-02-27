@@ -2,6 +2,7 @@
   padding: 77px 32px 41px;
   position: relative;
   background-color: #fff;
+
 }
 
 .cards__item:last-child .cards__title::before {
@@ -11,3 +12,13 @@
 .cards__item:first-child .cards__title::before {
   background-image: url(../../../images/icon-brand-recognition.svg);
 }
+
+.cards__item:first-child {
+  transform: translate(0, -44px);
+}
+
+.cards__item:last-child {
+  transform: translate(0, 44px);
+}
+
+
