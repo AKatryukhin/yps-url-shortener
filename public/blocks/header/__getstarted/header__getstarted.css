@@ -11,4 +11,9 @@
   color: #fff;
   border: none;
   margin-bottom: 54px;
+  transition: all 0.5s linear;
+}
+
+.header__getstarted:hover {
+  background: #9AE3E3;
 }

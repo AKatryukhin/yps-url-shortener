@@ -1,0 +1,17 @@
+.footer-nav__link {
+    margin: 0 0 10px 0;
+    text-decoration: none;
+    font-family: "Poppins", "Arial", "Helvetica", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.5;
+    color:#BFBFBF;
+    letter-spacing: -0.23px;
+    display: block;
+    transition: all 0.5s linear;
+}
+
+.footer-nav__link:hover {
+  color:#2BD0D0;
+ }

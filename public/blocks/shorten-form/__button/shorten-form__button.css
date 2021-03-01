@@ -12,6 +12,10 @@
   border: none;
   padding: 0;
   box-sizing: border-box;
+  transition: all 0.5s linear;
 }
 
 
+.shorten-form__button:hover {
+  background: #9AE3E3;
+}
