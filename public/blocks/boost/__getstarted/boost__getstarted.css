@@ -10,7 +10,7 @@
   line-height: 1.5;
   color: #fff;
   border: none;
-  transition: all 0.5s linear;
+  transition: background 0.5s linear;
 }
 
 .boost__getstarted:hover {
