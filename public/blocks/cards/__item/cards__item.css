@@ -2,6 +2,7 @@
   padding: 77px 32px 41px;
   position: relative;
   background-color: #fff;
+  z-index: 1;
 
 }
 

@@ -1,6 +1,9 @@
-.header-nav__container {
+.header__nav-container {
+  width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  margin-top: 48px;
+  margin-bottom: 139px;
 }
