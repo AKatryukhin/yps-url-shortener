@@ -1,3 +1,4 @@
-.footer-nav__social-icon:hover {
-  fill: #2BD0D0;
+
+.footer-nav__social-icon path:hover {
+ fill: #2BD0D0;
 }
