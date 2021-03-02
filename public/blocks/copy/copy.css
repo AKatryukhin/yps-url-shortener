@@ -1,0 +1,9 @@
+.copy {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 24px 16px 32px;
+  background-color: #fff;
+  border-radius: 5px;
+}

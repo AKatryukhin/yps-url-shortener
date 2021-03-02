@@ -1,0 +1,13 @@
+.copy__long-link {
+  text-decoration: none;
+  font-family: "Poppins", "Arial", "Helvetica", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.8;
+  color:#34313D;
+  letter-spacing: 0.15px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}

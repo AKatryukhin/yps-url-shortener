@@ -1,0 +1,22 @@
+.copy__short-link {
+  text-decoration: none;
+  font-family: "Poppins", "Arial", "Helvetica", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.8;
+  color:#2BD0D0;
+  letter-spacing: 0.15px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  justify-self: flex-end;
+  margin-left: auto;
+  margin-right: 0;
+
+  }
+
+  .copy__short-link::after {
+    content: "";
+    margin-right: 24px;
+  }

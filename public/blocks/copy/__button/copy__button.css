@@ -1,0 +1,21 @@
+.copy__button {
+  width: 103px;
+  height: 40px;
+  background: #2BD0D0;
+  border-radius: 5px;
+  font-family: "Poppins", "Arial", "Helvetica", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #fff;
+  border: none;
+  padding: 0;
+  box-sizing: border-box;
+  transition: all 0.5s linear;
+  margin-left: 0;
+}
+
+.shorten-form__button:hover {
+  background: #9AE3E3;
+}
