@@ -17,3 +17,10 @@
 .header__getstarted:hover {
   background: #9AE3E3;
 }
+
+@media screen and (max-width: 767px) {
+  .header__getstarted {
+    margin: 0 auto 20px;
+
+}
+}

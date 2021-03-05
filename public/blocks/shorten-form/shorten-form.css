@@ -7,3 +7,13 @@
   box-sizing: border-box;
   background-image: url(../../images/bg-shorten-desktop.svg);
 }
+
+@media screen and (max-width: 767px) {
+  .shorten-form {
+    transform: translate(0, 80px);
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

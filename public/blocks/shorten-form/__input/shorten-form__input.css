@@ -11,3 +11,11 @@
   border-radius: 10px;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 767px) {
+  .shorten-form__input {
+  width: 100%;
+  margin-bottom: 16px;
+  border-radius: 5px;
+}
+}

@@ -9,4 +9,40 @@
   letter-spacing: -2px;
   margin-top: 0;
   margin-bottom: 5px;
+  margin-top: 227px;
+}
+
+.header__title::after {
+  content: "";
+  width: 733px;
+  height: 482px;
+  position: absolute;
+  top: 166px;
+  right: -123px;
+  background-image: url(../../../images/illustration-working.svg);
+  background-position: inherit;
+  background-size: cover;
+}
+
+
+
+@media screen and (max-width: 767px) {
+.header__title {
+  font-size: 42px;
+  line-height: 1.15;
+  letter-spacing: -1.05px;
+  text-align: center;
+  margin-top: 470px;
+  margin-bottom: 15px;
+}
+
+.header__title::after {
+  content: "";
+  width: 327px;
+  height: 270px;
+  position: absolute;
+  top: 140px;
+  left: 0;
+
+}
 }

@@ -9,15 +9,15 @@
   letter-spacing: 0.15px;
   margin-top: 0;
   margin-bottom: 38px;
+
 }
 
-.header__subtitle::after {
-  content: "";
-  width: 733px;
-  height: 482px;
-  position: absolute;
-  top: 166px;
-  right: -123px;
-  background-image: url(../../../images/illustration-working.svg);
-  background-position: inherit;
-}
+@media screen and (max-width: 767px) {
+  .header__subtitle {
+    font-size: 18px;
+    line-height: 1.7;
+    letter-spacing: 0.12px;
+    text-align: center;
+    margin-bottom: 32px;
+  }
+  }
