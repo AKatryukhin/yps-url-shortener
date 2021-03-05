@@ -1,0 +1,7 @@
+.header__title-container {
+  min-width: 565px;
+  margin-right: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

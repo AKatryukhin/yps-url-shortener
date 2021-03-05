@@ -10,7 +10,6 @@
   line-height: 1.5;
   color: #fff;
   border: none;
-  margin-bottom: 54px;
   transition:   all 0.5s linear;
 }
 
@@ -20,7 +19,7 @@
 
 @media screen and (max-width: 767px) {
   .header__getstarted {
-    margin: 0 auto 20px;
+
 
 }
 }
