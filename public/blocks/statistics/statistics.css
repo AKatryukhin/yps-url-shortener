@@ -4,3 +4,10 @@
   flex-direction: column;
   padding: 108px 0 164px;
 }
+
+@media screen and (max-width: 767px) {
+  .statistics {
+
+    padding: 126px 0 80px;
+  }
+}

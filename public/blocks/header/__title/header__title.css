@@ -20,7 +20,7 @@
   top: 166px;
   right: -123px;
   background-image: url(../../../images/illustration-working.svg);
-  background-position: inherit;
+  /* background-position: inherit; */
   background-size: cover;
 }
 
@@ -32,17 +32,16 @@
   line-height: 1.15;
   letter-spacing: -1.05px;
   text-align: center;
-  margin-top: 470px;
-  margin-bottom: 15px;
-}
+  margin: 470px auto 15px;
+  }
 
 .header__title::after {
   content: "";
-  width: 327px;
+  width: 100%;
+  height:100%;
   height: 270px;
   position: absolute;
   top: 140px;
   left: 0;
-
-}
+  }
 }

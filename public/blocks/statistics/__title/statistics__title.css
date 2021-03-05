@@ -10,3 +10,13 @@
   margin: 96px auto 18px;
   text-align: center;
 }
+
+@media screen and (max-width: 767px) {
+  .statistics__title {
+    max-width: 100%;
+    font-size: 28px;
+    line-height: 1.7;
+    letter-spacing: -0.7px;
+    margin: 34px auto 16px;
+  }
+}
