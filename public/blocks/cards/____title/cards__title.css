@@ -23,3 +23,14 @@
   left: 32px;
 }
 
+@media screen and (max-width: 767px) {
+
+.cards__title {
+  text-align: center;
+}
+
+.cards__title::before {
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+}

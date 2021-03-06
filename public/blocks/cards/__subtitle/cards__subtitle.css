@@ -7,3 +7,10 @@
   color:#9E9AA8;
   margin: 0;
 }
+
+@media screen and (max-width: 767px) {
+
+  .cards__subtitle {
+    text-align: center;
+  }
+}

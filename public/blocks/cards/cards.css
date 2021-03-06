@@ -19,3 +19,11 @@ margin: auto;
   top: 108px;
   left: 0;
 }
+
+@media screen and (max-width: 767px) {
+.cards {
+  gap: 92px;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(3, 284px);
+}
+}
