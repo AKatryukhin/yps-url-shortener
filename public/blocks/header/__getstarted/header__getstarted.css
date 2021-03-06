@@ -19,7 +19,6 @@
 
 @media screen and (max-width: 767px) {
   .header__getstarted {
-
-
+margin: 0 auto 8px;
 }
 }

@@ -1,8 +1,13 @@
 .header__content-container {
+  margin: 0 auto;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+}
 
-
+@media screen and (max-width: 767px) {
+  .header__content-container {
+    flex-direction: column-reverse;
+  }
 }
