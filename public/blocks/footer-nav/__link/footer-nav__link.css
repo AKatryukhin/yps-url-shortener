@@ -15,3 +15,9 @@
 .footer-nav__link:hover {
   color:#2BD0D0;
  }
+
+ @media screen and (max-width: 767px) {
+  .footer-nav__link {
+    text-align: center;
+  }
+}

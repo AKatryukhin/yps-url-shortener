@@ -8,4 +8,9 @@
   margin-left: 24px;
 }
 
-
+@media screen and (min-width: 768px) and (max-width: 1100px) {
+  .footer-nav__social-link::before {
+    content: "";
+    margin-left: 14px;
+  }
+}
