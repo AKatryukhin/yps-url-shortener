@@ -16,3 +16,10 @@
 .header-nav__sign:hover {
   background: #9AE3E3;
 }
+
+@media screen and (max-width: 767px) {
+  .header-nav__sign {
+    width: 100%;
+    height: 48px;
+  }
+}
