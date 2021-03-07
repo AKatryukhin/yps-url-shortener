@@ -23,7 +23,7 @@
 }
 
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1024px) {
   .cards__item:first-child {
     transform: translate(0, 0);
   }
@@ -32,3 +32,4 @@
     transform: translate(0, 0);
   }
 }
+

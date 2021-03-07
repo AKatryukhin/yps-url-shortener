@@ -8,7 +8,7 @@
   margin: 0;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1024px) {
 
   .cards__subtitle {
     text-align: center;

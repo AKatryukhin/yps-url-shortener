@@ -2,12 +2,12 @@
   background-color: #EFF1F7;
   display: flex;
   flex-direction: column;
+  align-items: center;
   padding: 108px 0 164px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1024px) {
   .statistics {
-
     padding: 126px 0 80px;
   }
 }
