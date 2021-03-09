@@ -1,0 +1,15 @@
+.header__burger-container {
+  margin-right: 45px;
+}
+
+@media screen and (max-width: 767px) {
+  .header__burger-container {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 23px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
