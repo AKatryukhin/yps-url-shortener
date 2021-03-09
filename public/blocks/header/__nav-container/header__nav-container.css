@@ -10,9 +10,11 @@
 
 @media screen and (max-width: 767px) {
   .header__nav-container {
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-between;
     align-items: flex-start;
-    margin: 0;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    margin-bottom: 23px;
   }
 }
