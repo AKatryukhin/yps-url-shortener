@@ -8,5 +8,8 @@
 
 .menu-burger__toggle:checked~.header-nav {
   display: flex;
+  position: absolute;
+  top: 55px;
+  left: 0;
 }
 }
