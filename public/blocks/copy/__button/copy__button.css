@@ -19,3 +19,9 @@
 .shorten-form__button:hover {
   background: #9AE3E3;
 }
+
+@media screen and (max-width: 767px) {
+  .copy__button {
+    width: 100%;
+  }
+}

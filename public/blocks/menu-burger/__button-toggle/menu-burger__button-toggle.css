@@ -13,7 +13,7 @@ top: 50%;
 }
 .menu-burger__button-toggle:after, .menu-burger__button-toggle:before{
 content: '';
-height: 2.5px;
+
 }
 .menu-burger__button-toggle:after{
 bottom: 9px;

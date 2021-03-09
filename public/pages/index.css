@@ -44,5 +44,6 @@
 @import url(../blocks/footer-nav/__title/footer-nav__title.css);
 @import url(../blocks/copy/copy.css);
 @import url(../blocks/copy/__button/copy__button.css);
+@import url(../blocks/copy/__button/_active/copy__button_active.css);
 @import url(../blocks/copy/__long-link/copy__long-link.css);
-@import url(../blocks/copy/__short-lonk/copy__short-link.css);
+@import url(../blocks/copy/__short-link/copy__short-link.css);
