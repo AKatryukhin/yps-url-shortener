@@ -1,23 +1,25 @@
+@media screen and (max-width: 767px) {
 .menu-burger__button-toggle, .menu-burger__button-toggle:after, .menu-burger__button-toggle:before{
   height: 3px;
   width: 100%;
   position: absolute;
   background: #9E9AA8;
   margin: 0 auto;
+  box-sizing: border-box;
 }
 
 .menu-burger__button-toggle {
-top: 21px;
+top: 50%;
 }
 .menu-burger__button-toggle:after, .menu-burger__button-toggle:before{
 content: '';
 }
 .menu-burger__button-toggle:after{
-bottom: 5px;
+bottom: 9px;
 }
 .menu-burger__button-toggle:before{
-top: 5px;
+top: 9px;
 }
 
-
+}
 
