@@ -1,51 +1,49 @@
 .cards {
-list-style: none;
-padding: 0;
-margin: 0 auto;
-display: grid;
-gap: 30px;
-grid-template-columns: repeat(3, 300px);
-grid-template-rows: 1fr;
-position: relative;
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  display: grid;
+  gap: 30px;
+  grid-template-columns: repeat(3, 300px);
+  grid-template-rows: 1fr;
+  position: relative;
 }
 
 .cards::after {
   content: "";
   width: 800px;
   height: 8px;
-  background-color:  rgba(43, 208, 208, 1);
+  background-color: rgba(43, 208, 208, 1);
   position: absolute;
   top: 108px;
   left: 0;
 }
 
 @media screen and (max-width: 1024px) {
-.cards {
-  gap: 92px;
-  grid-template-columns: 1fr;
-  grid-template-rows: repeat(3, 284px);
-
-}
-
-.cards::after {
-  content: "";
-  width: 8px;
-  height: 800px;
-  background-color:  rgba(43, 208, 208, 1);
-  position: absolute;
-  top: 0;
-  left: 49.5%;
-}
-}
-
-@media screen and (min-width: 1440px) {
-
   .cards {
-    grid-template-columns: repeat(3, 350px);
-    grid-template-rows: 267px;
+      gap: 92px;
+      grid-template-columns: 1fr;
+      grid-template-rows: repeat(3, 284px);
   }
 
   .cards::after {
-    width: 100%;
+      content: "";
+      width: 8px;
+      height: 800px;
+      background-color: rgba(43, 208, 208, 1);
+      position: absolute;
+      top: 0;
+      left: 49.5%;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .cards {
+      grid-template-columns: repeat(3, 350px);
+      grid-template-rows: 267px;
+  }
+
+  .cards::after {
+      width: 100%;
   }
 }

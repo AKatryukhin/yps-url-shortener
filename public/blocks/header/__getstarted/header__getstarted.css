@@ -1,7 +1,7 @@
 .header__getstarted {
   width: 197px;
   height: 56px;
-  background: #2BD0D0;
+  background: #2bd0d0;
   border-radius: 28px;
   font-family: "Poppins", "Arial", "Helvetica", sans-serif;
   font-style: normal;
@@ -10,15 +10,15 @@
   line-height: 1.5;
   color: #fff;
   border: none;
-  transition:   all 0.5s linear;
+  transition: all 0.5s linear;
 }
 
 .header__getstarted:hover {
-  background: #9AE3E3;
+  background: #9ae3e3;
 }
 
 @media screen and (max-width: 767px) {
   .header__getstarted {
-margin: 0 auto 8px;
-}
+      margin: 0 auto 8px;
+  }
 }

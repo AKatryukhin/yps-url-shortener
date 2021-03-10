@@ -1,7 +1,7 @@
 .footer-nav__social-link {
   text-decoration: none;
   transition: all 0.5s linear;
- }
+}
 
 .footer-nav__social-link::before {
   content: "";
@@ -10,7 +10,7 @@
 
 @media screen and (min-width: 768px) and (max-width: 1100px) {
   .footer-nav__social-link::before {
-    content: "";
-    margin-left: 14px;
+      content: "";
+      margin-left: 14px;
   }
 }

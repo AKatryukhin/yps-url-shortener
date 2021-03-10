@@ -5,32 +5,31 @@
   font-weight: 700;
   font-size: 60px;
   line-height: 1.1;
-  color:#34313D;
+  color: #34313d;
   letter-spacing: -1.5px;
   margin: 0 auto 5px;
 }
 
-
 @media screen and (max-width: 767px) {
-.header__title {
-  font-size: 42px;
-  line-height: 1.15;
-  letter-spacing: -1.05px;
-  text-align: center;
-  margin: 0 auto 15px;
+  .header__title {
+      font-size: 42px;
+      line-height: 1.15;
+      letter-spacing: -1.05px;
+      text-align: center;
+      margin: 0 auto 15px;
   }
 }
 
 @media screen and (min-width: 1440px) {
   .header__title {
-    font-size: 80px;
-    letter-spacing: -2px;
+      font-size: 80px;
+      letter-spacing: -2px;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1100px) {
   .header__title {
-    font-size: 52px;
-    letter-spacing: -1.35px;
+      font-size: 52px;
+      letter-spacing: -1.35px;
   }
 }

@@ -4,29 +4,26 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-
 }
 
 @media screen and (max-width: 767px) {
   .header__title-container {
-    width: 100%;
-    margin: 0;
-    align-items: center;
-
-
+      width: 100%;
+      margin: 0;
+      align-items: center;
   }
 }
 
 @media screen and (min-width: 1440px) {
   .header__title-container {
-    min-width: 563px;
-    margin-right: 100px;
+      min-width: 563px;
+      margin-right: 100px;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1100px) {
   .header__title-container {
-    margin-right: 0;
-    width: 400px;
+      margin-right: 0;
+      width: 400px;
   }
 }

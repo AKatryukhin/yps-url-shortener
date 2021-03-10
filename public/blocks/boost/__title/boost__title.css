@@ -4,7 +4,7 @@
   font-weight: 700;
   font-size: 40px;
   line-height: 1.2;
-  color:#fff;
+  color: #fff;
   text-align: center;
   letter-spacing: -1px;
   margin: 0 auto 32px;
@@ -13,9 +13,10 @@
 
 @media screen and (max-width: 767px) {
   .boost__title {
-    font-size: 28px;
-    line-height: 1.7;
-    letter-spacing: -0.7px;
-    margin: 0 auto 16px;
+      font-size: 28px;
+      line-height: 1.7;
+      letter-spacing: -0.7px;
+      margin: 0 auto 16px;
   }
 }
+

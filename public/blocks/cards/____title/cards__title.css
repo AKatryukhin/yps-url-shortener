@@ -4,7 +4,7 @@
   font-weight: 700;
   font-size: 22px;
   line-height: 1.5;
-  color:#34313D;
+  color: #34313d;
   margin: 0 0 12px;
 }
 
@@ -13,7 +13,7 @@
   width: 88px;
   height: 88px;
   border-radius: 50%;
-  background-color: #3A3054;
+  background-color: #3a3054;
   background-image: url(../../../images/icon-detailed-records.svg);
   background-size: inherit;
   background-position: center;
@@ -24,13 +24,12 @@
 }
 
 @media screen and (max-width: 1024px) {
+  .cards__title {
+      text-align: center;
+  }
 
-.cards__title {
-  text-align: center;
-}
-
-.cards__title::before {
-  left: 50%;
-  transform: translate(-50%, 0);
-}
+  .cards__title::before {
+      left: 50%;
+      transform: translate(-50%, 0);
+  }
 }

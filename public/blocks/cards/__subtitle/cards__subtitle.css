@@ -4,13 +4,12 @@
   font-weight: 500;
   font-size: 15px;
   line-height: 1.7;
-  color:#9E9AA8;
+  color: #9e9aa8;
   margin: 0;
 }
 
 @media screen and (max-width: 1024px) {
-
   .cards__subtitle {
-    text-align: center;
+      text-align: center;
   }
 }

@@ -5,7 +5,7 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 1.8;
-  color:#2BD0D0;
+  color: #2bd0d0;
   letter-spacing: 0.15px;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -13,23 +13,22 @@
   justify-self: flex-end;
   margin-left: auto;
   margin-right: 0;
+}
 
-  }
+.copy__short-link::after {
+  content: "";
+  margin-right: 24px;
+}
 
-  .copy__short-link::after {
-    content: "";
-    margin-right: 24px;
-  }
-
-  @media screen and (max-width: 767px) {
-    .copy__short-link {
+@media screen and (max-width: 767px) {
+  .copy__short-link {
       font-size: 16px;
       line-height: 2.2;
       letter-spacing: 0.12px;
       margin: 0 0 6px;
-    }
-    .copy__short-link::after {
-
-      margin: 0;
-    }
   }
+  .copy__short-link::after {
+      margin: 0;
+  }
+}
+

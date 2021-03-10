@@ -5,7 +5,7 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 1.8;
-  color:#34313D;
+  color: #34313d;
   letter-spacing: 0.15px;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -15,10 +15,10 @@
 
 @media screen and (max-width: 767px) {
   .copy__long-link {
-    font-size: 16px;
-    line-height: 2.2;
-    letter-spacing: 0.12px;
-    margin: 0 0 6px;
-    border-bottom: 1px solid rgba(158, 154, 168, .25);
+      font-size: 16px;
+      line-height: 2.2;
+      letter-spacing: 0.12px;
+      margin: 0 0 6px;
+      border-bottom: 1px solid rgba(158, 154, 168, 0.25);
   }
 }

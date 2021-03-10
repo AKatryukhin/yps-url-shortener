@@ -5,7 +5,7 @@
   font-weight: 500;
   font-size: 18px;
   line-height: 1.8;
-  color:#9E9AA8;
+  color: #9e9aa8;
   letter-spacing: 0.12px;
   text-align: center;
   margin: 0 auto 144px;
@@ -13,9 +13,9 @@
 
 @media screen and (max-width: 767px) {
   .statistics__subtitle {
-  font-size: 16px;
-  line-height: 1.8;
-  letter-spacing: 0.11px;
-  margin: 0 auto 92px;
-}
+      font-size: 16px;
+      line-height: 1.8;
+      letter-spacing: 0.11px;
+      margin: 0 auto 92px;
+  }
 }

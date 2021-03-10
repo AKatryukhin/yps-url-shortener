@@ -1,7 +1,7 @@
 .boost__getstarted {
   width: 197px;
   height: 56px;
-  background: #2BD0D0;
+  background: #2bd0d0;
   border-radius: 28px;
   font-family: "Poppins", "Arial", "Helvetica", sans-serif;
   font-style: normal;
@@ -14,5 +14,5 @@
 }
 
 .boost__getstarted:hover {
-  background: #9AE3E3;
+  background: #9ae3e3;
 }

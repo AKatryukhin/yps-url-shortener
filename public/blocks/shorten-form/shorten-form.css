@@ -1,6 +1,6 @@
 .shorten-form {
   padding: 52px 64px;
-  background-color: #3A3054;
+  background-color: #3a3054;
   border-radius: 10px;
   transform: translate(0, 84px);
   width: 100%;
@@ -10,7 +10,8 @@
 
 @media screen and (max-width: 767px) {
   .shorten-form {
-    transform: translate(0, 80px);
-    padding: 24px;
+      transform: translate(0, 80px);
+      padding: 24px;
   }
 }
+

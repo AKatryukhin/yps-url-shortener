@@ -6,18 +6,17 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-
 }
 
 @media screen and (max-width: 767px) {
   .header-nav__links {
-    width: 100%;
-    flex-direction: column;
-    border-bottom: 1px solid rgba(158, 154, 168, .25);
-    align-items: stretch;
+      width: 100%;
+      flex-direction: column;
+      border-bottom: 1px solid rgba(158, 154, 168, 0.25);
+      align-items: stretch;
   }
   .header-nav__links:last-child {
-    border: 0;
-    margin-top: 32px;
+      border: 0;
+      margin-top: 32px;
   }
 }

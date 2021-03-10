@@ -1,23 +1,23 @@
 .footer-nav__link {
-    margin: 0 0 10px 0;
-    text-decoration: none;
-    font-family: "Poppins", "Arial", "Helvetica", sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 15px;
-    line-height: 1.5;
-    color:#BFBFBF;
-    letter-spacing: -0.23px;
-    display: block;
-    transition: all 0.5s linear;
+  margin: 0 0 10px 0;
+  text-decoration: none;
+  font-family: "Poppins", "Arial", "Helvetica", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #bfbfbf;
+  letter-spacing: -0.23px;
+  display: block;
+  transition: all 0.5s linear;
 }
 
 .footer-nav__link:hover {
-  color:#2BD0D0;
- }
+  color: #2bd0d0;
+}
 
- @media screen and (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .footer-nav__link {
-    text-align: center;
+      text-align: center;
   }
 }
